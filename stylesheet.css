@@ -1,0 +1,23 @@
+
+h1 {
+    color:darkslategray;
+    font-size: 52px;
+}
+
+.emphasis {
+    background-color: coral;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#style-1 {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid black;
+  }
+  
+  a:hover {
+    color: red;
+  }
+  
